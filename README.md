@@ -1,32 +1,4 @@
 <h1 align="center">Hi, I'm Anti-Anti-Anit 👋</h1>
-<p align="center">Config files for my GitHub profile — auto-synced from the GitHub API.</p>
-
-```console
-Anti-Anti-Anit@Host:~$ neofetch
-
-       _______________________________    Anti-Anti-Anit@Host
-      |                               |    ------------------------
-      |                               |    OS: GitHub
-      |                               |    Host: github.com
-      |                               |    Shell: bash
-      |   GitHub Profile Repository  |    Uptime: 2147483647 seconds
-      |                               |    Editors: vscode, notepad++
-      |_______________________________|    Crontab: research, build, share
-              |               |            Home: git@github.com:Anti-Anti-Anit
-
-              |_______________|              Contact
-                                        ------------------------
-                                        Github: Anti-Anti-Anit
-
-                                        Projects
-                                        ------------------------
-                                        Auto-synced from the GitHub API
-
-                                        Languages
-                                        ------------------------
-                                        Auto-synced from the GitHub API
-```
-
 **About me**
 
 - 🛠 I like breaking things to see how they work, then writing them up.
