@@ -9,6 +9,8 @@
 
 - 💬 Ask me about anything — open an [issue](https://github.com/Anti-Anti-Anit/Anti-Anti-Anit/issues).
 
+- 📝 Blog: [anti-anti-anit.github.io](https://anti-anti-anit.github.io) — Hexo + GitHub Pages, rebuilt on every push.
+
 - ⚡ Fun fact: this whole page regenerates itself on a schedule.
 
 ---
